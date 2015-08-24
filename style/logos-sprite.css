@@ -1,0 +1,37 @@
+.arrow { width: 45px; height: 30px; background-position: 0 0; }
+
+.arrow-s { width: 90px; height: 30px; background-position: -50px 0; }
+
+.button-bg { width: 440px; height: 90px; background-position: -145px 0; }
+
+.calendar { width: 70px; height: 75px; background-position: -590px 0; }
+
+.card { width: 100px; height: 68px; background-position: -665px 0; }
+
+.cloud { width: 120px; height: 80px; background-position: -770px 0; }
+
+.cursor-b { width: 50px; height: 50px; background-position: -895px 0; }
+
+.cursor-m { width: 40px; height: 40px; background-position: -950px 0; }
+
+.email { width: 80px; height: 42px; background-position: -995px 0; }
+
+.email-small { width: 28px; height: 18px; background-position: -1080px 0; }
+
+.heart { width: 18px; height: 16px; background-position: -1115px 0; }
+
+.i-minus { width: 40px; height: 15px; background-position: -1140px 0; }
+
+.i-plus { width: 40px; height: 40px; background-position: -1185px 0; }
+
+.i-rouble { width: 60px; height: 75px; background-position: -1230px 0; }
+
+.letter-s { width: 95px; height: 95px; background-position: -1295px 0; }
+
+.ok-m { width: 16px; height: 15px; background-position: -1395px 0; }
+
+.triangle { width: 30px; height: 32px; background-position: -1420px 0; }
+
+.arrow, .arrow-s, .button-bg, .calendar, .card, .cloud, .cursor-b, .cursor-m, .email, .email-small, .heart, .i-minus, .i-plus, .i-rouble, .letter-s, .ok-m, .triangle { background-size: 1455px 100px; background-repeat: no-repeat; background-image: url("../i/svg/sprite-svg.png"); }
+
+.svg .arrow, .svg .arrow-s, .svg .button-bg, .svg .calendar, .svg .card, .svg .cloud, .svg .cursor-b, .svg .cursor-m, .svg .email, .svg .email-small, .svg .heart, .svg .i-minus, .svg .i-plus, .svg .i-rouble, .svg .letter-s, .svg .ok-m, .svg .triangle { background-image: url("../i/svg/sprite-svg.svg"); }
